@@ -79,3 +79,7 @@ public String getCandidate(Model model) {
 		</c:forEach>
 	</ul>
 ```
+
+## Author
+
+Daniel Krasowski
