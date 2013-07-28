@@ -1,6 +1,6 @@
 ## BreadCrumbs for Spring MVC
 
-<i>breadcrumbs-spring.jar</i> is library dedicated for Spring MVC. This library based on annotation and interceptor. Additionally annotation includes few attributes, which allow for some customization:
+<i>breadcrumbs-spring.jar</i> is library dedicated for Spring MVC. This library based on annotation and interceptor. Additionally annotation includes few attributes, which allows to some customization:
 
 <b>Label</b> - Display label for the link. You can define static text or key of element at property file.<br>
 <b>Parent</b> – define parent of current localization. Parent with empty value indicate that it is root of user position.<br>
